@@ -12,6 +12,15 @@ key features :
 3) user can add a priority order
 4) dynamic routing
 
+#Technologies Used 
+React
+Redux toolkit
+tailwind css
+React-router-dom
+
+Contact
+ You can contact me via mahajanyogesh443@gmail.com
+
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/your-repo-name.git
