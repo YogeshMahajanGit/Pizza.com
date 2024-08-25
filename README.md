@@ -1,8 +1,26 @@
-# React + Vite
+# Pizza.com 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo :- https://pizzacom-mahajanyogesh443-gmailcoms-projects.vercel.app/
 
-Currently, two official plugins are available:
+## Description
+This project is a React-based web application designed to help users to order pizza from home.
+It features a user-friendly interface, real-time updates, and integration with external APIs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+key features : 
+1) user can add multiple pizza before order
+2) used a GPS location for user address
+3) user can add a priority order
+4) dynamic routing
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/your-repo-name.git
+
+# Navigate to the project directory
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
